@@ -1,0 +1,10 @@
+[pack]
+	buildbitmaps = false
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = true
+	bare = false
+[remote "postofficehours.us"]
+	url = https://mrk-i@github.com/mrk-i/postofficehours.us.git
+	fetch = +refs/heads/*:refs/remotes/postofficehours.us/*

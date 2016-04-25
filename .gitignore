@@ -1,0 +1,11 @@
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+#
+config.php
+templates/*
+images/*
+.htaccess

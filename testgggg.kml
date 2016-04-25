@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <name>Name of post office</name>
+    <description><![CDATA[Post office]]></description>
+    <atom:link href="http://bullhead-city.postofficehours.us/Arizona/" />  
+    
+      <Placemark>
+        <name>Postt office in NATIONAL BANK OF ARIZONA</name>
+        <description>
+          1979 HIGHWAY 95 STE 15, bullhead city 86442, California, United States
+          &lt;br/&gt;
+          (&lt;a href="http://bullhead-city.postofficehours.us/Arizona/NATIONAL-BANK-OF-ARIZONA/1979-HIGHWAY-95-STE-15-86442/"&gt;Post Offices nearby&lt;/a&gt;)
+        </description>
+        <Point>
+          <coordinates>-114.5981,35.116,0</coordinates>
+        </Point>
+      </Placemark>
+    
+  </Document>
+</kml>

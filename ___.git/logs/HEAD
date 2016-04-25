@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 cf26b3bae484cb540692da881ab8bd68672615b0 mrk-i <Jane@Alien> 1461087824 +0200	commit (initial): I just initialized git repository
+cf26b3bae484cb540692da881ab8bd68672615b0 cf26b3bae484cb540692da881ab8bd68672615b0 mrk-i <Jane@Alien> 1461090319 +0200	checkout: moving from master to development
+cf26b3bae484cb540692da881ab8bd68672615b0 cf26b3bae484cb540692da881ab8bd68672615b0 mrk-i <Jane@Alien> 1461090947 +0200	checkout: moving from development to master
+cf26b3bae484cb540692da881ab8bd68672615b0 954cccf4ec22a65d78d1a1fda2d2a5142ac4edf9 mrk-i <Jane@Alien> 1461576115 +0200	checkout: moving from master to 954cccf4ec22a65d78d1a1fda2d2a5142ac4edf9
+954cccf4ec22a65d78d1a1fda2d2a5142ac4edf9 954cccf4ec22a65d78d1a1fda2d2a5142ac4edf9 mrk-i <Jane@Alien> 1461576115 +0200	rebase finished: returning to refs/heads/master
+954cccf4ec22a65d78d1a1fda2d2a5142ac4edf9 cf26b3bae484cb540692da881ab8bd68672615b0 mrk-i <Jane@Alien> 1461576255 +0200	checkout: moving from master to development
+cf26b3bae484cb540692da881ab8bd68672615b0 954cccf4ec22a65d78d1a1fda2d2a5142ac4edf9 mrk-i <Jane@Alien> 1461576276 +0200	checkout: moving from development to master
+954cccf4ec22a65d78d1a1fda2d2a5142ac4edf9 cf26b3bae484cb540692da881ab8bd68672615b0 mrk-i <Jane@Alien> 1461578392 +0200	checkout: moving from master to development
+cf26b3bae484cb540692da881ab8bd68672615b0 954cccf4ec22a65d78d1a1fda2d2a5142ac4edf9 mrk-i <Jane@Alien> 1461578432 +0200	checkout: moving from development to master
+954cccf4ec22a65d78d1a1fda2d2a5142ac4edf9 cf26b3bae484cb540692da881ab8bd68672615b0 mrk-i <Jane@Alien> 1461578537 +0200	checkout: moving from master to development
